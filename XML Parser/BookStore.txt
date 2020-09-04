@@ -1,0 +1,17 @@
+
+bookstore
+book
+category : Children
+title : Harry Potter
+author : J K. Rowling
+year : 2005
+price : 29.99
+
+book
+category : Web
+title : Learning XML
+author : Erik T. Ray
+year : 2003
+price : 39.95
+
+
